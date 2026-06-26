@@ -1,4 +1,14 @@
-## Hi there 👋
+# ABOUT ME 😄
+- I’m a BSc Mathematical & Computer Science student with a growing passion for data science. 
+- My academic journey has strengthened my skills in mathematics, programming, and analytical thinking, and I enjoy applying these to real-world problems. 
+- As a Student Mentor at the Academic Center of Excellence, I support peers in their learning while further developing my communication and leadership abilities
+
+# TECH STACK
+## PROGRAMMING LANGUAGES 
+
+## FRAMEWORKS
+
+
 
 <!--
 **Attie-Atang/Attie-Atang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
