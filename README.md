@@ -25,7 +25,7 @@
 - ![Static Badge](https://img.shields.io/badge/GMAIL-white?style=social&logo=gmail&logoColor=%23EA4335&logoSize=auto) : <a>atangmaleka78@gmail.com</a>
 - ![Static Badge](https://img.shields.io/badge/INSTAGRAM-%23FF0069?style=social&logo=instagram&logoSize=auto)
 : <a href="https://www.instagram.com/attie.atang" >  Instagram</a>
-- <a href="www.linkedin.com/in/atang-maleka-157156335" >  LinkedIn</a> 
+- <a href="https://www.linkedin.com/in/atang-maleka-157156335/" >  LinkedIn</a> 
   
 
 
